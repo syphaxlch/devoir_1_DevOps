@@ -37,6 +37,9 @@
     },
     "publicIPAddresses_publicIp_RG_vnet_nic01_c5569f30_name": {
       "value": null
+    },
+    "adminPassword": {
+      "value": null
     }
   }
 }
